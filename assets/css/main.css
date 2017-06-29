@@ -1,3 +1,18 @@
-body{
-	background-color: softpink;
+*{
+	background-color: #ee6e73;
+}
+
+.nueva-tarea{
+	margin-top: 5%;
+}
+
+label{
+	color:#8A0041;
+	font-weight: bold;
+	font-size: 15px;
+	
+}
+
+#agregar{
+	background-color:#f2c9dc;
 }
